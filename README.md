@@ -38,10 +38,10 @@ npm install
 
 npm run dev
 
-Static Site Generation
+Static-Site Generation
 http://localhost:3000/ssg
 
-Server Side Rendering
+Server-Side Rendering
 http://localhost:3000/ssr
 
 
