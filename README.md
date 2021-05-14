@@ -38,22 +38,27 @@ npm install
 
 npm run dev
 
+Static Site Generation
 http://localhost:3000/ssg
 
+Server Side Rendering
 http://localhost:3000/ssr
 
-http://localhost:3000/ssrStaticRouter
 
+Client-Side Rendering
 http://localhost:3000/csr
 
+
+Incremental Static Generation
 http://localhost:3000/isg/2
 ou 
 http://localhost:3000/isg/6
 
+
 Obs.: 
 revalidate = 2
 fallback = True
-parametro >= 6 com label loading. Ex.: 
+parâmetro >= 6 com label loading exibido na tela.
 
 
 
